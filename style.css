@@ -50,6 +50,7 @@ p {
     display: flex;
     flex-direction: column;
     align-items: center;
+    filter: drop-shadow(5px 8px 10px rgb(202, 202, 202));
 }
 
 .qrcode_img {
